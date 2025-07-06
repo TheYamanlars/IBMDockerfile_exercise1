@@ -20,4 +20,4 @@ This project demonstrates how to containerize and deploy a simple Python web app
 ## 🖥️ What This App Does
 
 When deployed, this app responds with:
-
+an interface with name entry and slider and when you submit write {name}!!!(!: based on intensity number)
